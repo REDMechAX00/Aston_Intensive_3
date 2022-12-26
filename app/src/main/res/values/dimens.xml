@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ********************************** App Dimens ********************************** -->
+    <!-- Indents -->
+    <dimen name="app_margin_normal">20dp</dimen>
+    <dimen name="app_margin_small">10dp</dimen>
+
+    <!-- Text -->
+    <dimen name="text_size_normal">18sp</dimen>
+    <dimen name="text_size_label">20sp</dimen>
+
+    <!-- ********************************** Task Dimens ********************************** -->
+    <!-- Flags -->
+    <dimen name="flags_indent">10dp</dimen>
+    <dimen name="flag_width">270dp</dimen>
+    <dimen name="flag_height">180dp</dimen>
+
+    <dimen name="flag_denmark_simple_line_size">30dp</dimen>
+    <dimen name="flag_switzerland_line_width">34dp</dimen>
+    <dimen name="flag_switzerland_line_length">112dp</dimen>
+</resources>

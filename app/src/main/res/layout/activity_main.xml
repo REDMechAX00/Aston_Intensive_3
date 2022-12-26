@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/color_background"
+    tools:context=".ui.MainActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_margin="@dimen/app_margin_normal"
+        android:orientation="vertical"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <TextView
+            android:id="@+id/main_text_task_1"
+            style="@style/themeLabelNormal"
+            android:text="@string/title_task_1" />
+
+        <Button
+            android:id="@+id/main_btn_flags"
+            style="@style/themeButtonNormal"
+            android:text="@string/activity_flags_title" />
+
+        <TextView
+            android:id="@+id/main_text_task_2"
+            style="@style/themeLabelNormal"
+            android:text="@string/title_task_2" />
+
+        <Button
+            android:id="@+id/main_btn_glide"
+            style="@style/themeButtonNormal"
+            android:text="@string/activity_glide_title" />
+
+        <Button
+            android:id="@+id/main_btn_picasso"
+            style="@style/themeButtonNormal"
+            android:text="@string/activity_picasso_title" />
+
+        <Button
+            android:id="@+id/main_btn_no_libraries"
+            style="@style/themeButtonNormal"
+            android:text="@string/activity_no_libraries_title" />
+
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

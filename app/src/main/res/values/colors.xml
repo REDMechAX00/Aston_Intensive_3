@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ********************************** App Colors ********************************** -->
+    <!-- Day/Night -->
+    <color name="color_primary">#0288d1</color>
+    <color name="color_primary_variant">#01579b</color>
+    <color name="color_on_primary">#FFFFFF</color>
+    <color name="color_secondary">#FF03DAC5</color>
+    <color name="color_secondary_variant">#FF018786</color>
+    <color name="color_on_secondary">#000000</color>
+    <color name="color_background">#FFFFFF</color>
+
+    <!-- ********************************** Tasks Colors ********************************** -->
+    <!-- Flags -->
+    <color name="color_background_flags">#000000</color>
+    <color name="color_primary_variant_flags">#000000</color>
+    <color name="color_white">#FFFFFF</color>
+    <color name="color_austria_red">#C8102E</color>
+    <color name="color_poland_red">#D4213D</color>
+    <color name="color_italian_green">#007A33</color>
+    <color name="color_italian_red">#CB333B</color>
+    <color name="color_columbia_yellow">#FFCD00</color>
+    <color name="color_columbia_blue">#003087</color>
+    <color name="color_columbia_red">#C8102E</color>
+    <color name="color_madagascar_red">#F9423A</color>
+    <color name="color_madagascar_green">#00843D</color>
+    <color name="color_thailand_red">#EF3340</color>
+    <color name="color_thailand_blue">#00205B</color>
+    <color name="color_denmark_red">#DA291C</color>
+    <color name="color_switzerland_red">#DA291C</color>
+</resources>

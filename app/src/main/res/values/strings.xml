@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Aston Intensive 3</string>
+    <string name="title_task_1">1. Flags creating</string>
+    <string name="title_task_2">2. Downloading images</string>
+
+    <string name="activity_flags_title">Flags</string>
+    <string name="activity_glide_title">Using Glide</string>
+    <string name="activity_picasso_title">Using Picasso</string>
+    <string name="activity_no_libraries_title">Without Libraries</string>
+
+    <string name="images_edtext_hint">Paste image url</string>
+    <string name="images_desc">Image</string>
+
+    <string name="error_invalid_url">Invalid URL</string>
+    <string name="error_image_not_found">Image not found</string>
+    <string name="error_no_internet">No internet connection</string>
+</resources>
